@@ -30,6 +30,16 @@ const projects = [
     border: 'border-blue-500/30',
   },
   {
+    title: 'Portfólio Pessoal',
+    description:
+      'Site de portfólio com design espacial, animações customizadas, seção de projetos e formulário de contato. Layout totalmente responsivo.',
+    tags: ['React', 'Tailwind CSS', 'Vite', 'EmailJS'],
+    github: 'https://github.com/gabrielsdev6/portfolio',
+    live: 'https://gabrielsdev6.vercel.app',
+    color: 'from-violet-500/20 to-purple-500/20',
+    border: 'border-violet-500/30',
+  },
+  {
     title: 'HemoAlerta',
     description:
       'App mobile para alertas de doação de sangue com cadastro de doadores, publicação de pedidos urgentes em tempo real e localização de hemocentros.',
