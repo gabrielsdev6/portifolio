@@ -40,6 +40,16 @@ const projects = [
     border: 'border-violet-500/30',
   },
   {
+    title: 'HueLab',
+    description:
+      'Ferramenta interativa para gerar gradientes e paletas de cores com preview ao vivo em componentes reais. Export em CSS, Tailwind, variáveis CSS e JS. Verificação de contraste WCAG e URL compartilhável.',
+    tags: ['React', 'Vite', 'chroma.js', 'CSS Modules'],
+    github: 'https://github.com/gabrielsdev6/huelab',
+    live: 'https://huelabcolors.vercel.app',
+    color: 'from-violet-500/20 to-pink-500/20',
+    border: 'border-violet-500/30',
+  },
+  {
     title: 'HemoAlerta',
     description:
       'App mobile para alertas de doação de sangue com cadastro de doadores, publicação de pedidos urgentes em tempo real e localização de hemocentros.',
